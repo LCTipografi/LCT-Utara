@@ -1,6 +1,6 @@
 # LCT Utara
 
-Overview
+## About
 
 LCT-Utara is a geometric sans serif typeface that blends clean, modern lines with playful alternates. Its balanced proportions and versatile stylistic sets make it perfect for branding, editorial design, and web use. With a contemporary yet approachable feel, LCT-Utara adds character and charm to any project.
 
